@@ -10,23 +10,29 @@ The cryptocurrency market is heavily influenced by regulatory news and investor 
 Using Binance data, we explored market trends, key fluctuations, and volume-price relationships while addressing unique challenges associated with XRP’s centralization and ongoing SEC litigation.
 
 ⚙️ Methodology
+
 #Data Collection & Cleaning
+
 Imported historical XRP/USD data from Binance.
 Processed timestamps, missing values, and outliers.
 
 #Descriptive Statistics & EDA
+
 Analyzed summary statistics for price and volume.
 Conducted time-series visualizations to detect trends and anomalies.
 
 #Technical Indicator Analysis (RSI)
+
 Computed the Relative Strength Index (RSI) to assess momentum and overbought/oversold conditions.
 Correlated RSI signals with major price movements and legal announcements.
 
 #Modeling – Linear Regression
+
 Built a Linear Regression model to predict daily closing prices.
 Examined relationships between historical prices, RSI, and trading volume.
 
 #Insights
+
 Identified key 2023 volatility spikes following major SEC-related decisions.
 Provided analytical evidence of market sensitivity to legal outcomes.
 
